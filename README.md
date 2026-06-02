@@ -14,7 +14,7 @@
 <div align="center">
  
  
-💬 Ask me about **Node.js, React, Firebase... or anything [here] (https://github.com/Anushka-paper/Anushka-paper/issues)**
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/Anushka-paper/Anushka-paper/issues)**
 
 ⚡ Fun fact **ONE PIECE IS REAL 🏴‍☠️**
 
