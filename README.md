@@ -1,20 +1,20 @@
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4&height=180&section=header&animation=twinkling"/>
+</div>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Anushka-paper.Anushka-paper" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Anushka!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from INDIA</h3>
+<h3 align="center">Need a cat!</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a project**
  
- 🌱 I’m currently learning **Flutter , React ,etc..**
-
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/Anushka-paper/Anushka-paper/issues)**
+💬 Ask me about **Node.js, React, Firebase... or anything [here] (https://github.com/Anushka-paper/Anushka-paper/issues)**
 
 ⚡ Fun fact **ONE PIECE IS REAL 🏴‍☠️**
 
@@ -37,8 +37,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,cpp" /><br>
+    <img src="https://skillicons.dev/icons?i=figma,git,react,nextjs,tailwind,bootstrap,html,css,javascript,typescript" /><br/>
+  <img src="https://skillicons.dev/icons?i=github,vscode,nodejs,express,mongodb,firebase,mysql,python,java,cpp" /><br/>
 </div>
 
 <br/>
